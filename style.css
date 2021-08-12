@@ -3,13 +3,7 @@
     justify-content:space-around;
 }
 
-.avatar {
-    width: 150px;
-    height: 150px;
-    border-radius: 75px;
-    background-image: url('../Ellipse\ 36.png');
-    background-size: cover;
-}
+
 .follow-btn {
     width: 97px;
     height: 29pxf;
