@@ -1,0 +1,46 @@
+.container1{
+    display: flex;
+    justify-content:space-around;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-image: url('../Ellipse\ 36.png');
+    background-size: cover;
+}
+.follow-btn {
+    width: 97px;
+    height: 29pxf;
+}
+
+
+.mw-550 {
+    max-width: 550px;
+}
+
+.mw-500 {
+    max-width: 500px;
+}
+.story {
+    width: 80px;
+    height: 80px;
+    background-image: url('../Ellipse\ 36.png');
+    background-size: cover;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
